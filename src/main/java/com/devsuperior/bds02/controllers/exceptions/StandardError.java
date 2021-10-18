@@ -1,4 +1,4 @@
-package com.devsuperior.bds02.services.exceptions;
+package com.devsuperior.bds02.controllers.exceptions;
 
 import java.time.Instant;
 
